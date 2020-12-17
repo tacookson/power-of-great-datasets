@@ -1,10 +1,8 @@
 # The Power of Great Datasets
 
-***Work in progress***
 
 
-
-Hi! You're probably here because you watched my :zap: talk at [rstudio::global(2021)](https://rstudio.com/conference/): *The Power of Great Datasets*.
+Hi! You're probably here because you watched my :zap: talk at [rstudio::global(2021)](https://rstudio.com/conference/): ***The Power of Great Datasets***. This repository has the slides and other resources you may find interesting if you enjoyed the talk. :slightly_smiling_face:
 
 
 
