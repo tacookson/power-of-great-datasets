@@ -2,7 +2,7 @@
 
 
 
-Hi! You're probably here because you watched my :zap: talk at rstudio::global(2021)https://rstudio.com/conference/: [***The Power of Great Datasets***](https://rstudio.com/resources/rstudioglobal-2021/the-power-of-great-datasets/). This repository has the slides and other resources you may find interesting if you enjoyed the talk. :slightly_smiling_face:
+Hi! You're probably here because you watched my :zap: talk at rstudio::global(2021): [***The Power of Great Datasets***](https://rstudio.com/resources/rstudioglobal-2021/the-power-of-great-datasets/). This repository has the slides and other resources you may find interesting if you enjoyed the talk. :slightly_smiling_face:
 
 
 
